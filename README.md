@@ -2,10 +2,10 @@
 
 **About me**
 
-- 💼 Currently working as frontend developer<br />
-- ❤️ I'm currently studying React, Vue and Node.<br />
-- 👯 I try to collaborate with react projects<br />
-- 📫 How to reach me: [fabio.dev](https://fabio-dev.vercel.app)<br /><br />
+- 💼  Currently working as frontend developer<br />
+- ❤️  I'm currently studying React, Vue and Node.<br />
+- 👯  I try to collaborate with react projects<br />
+- 📫  How to reach me: [fabio.dev](https://fabio-dev.vercel.app)<br /><br />
 
 <div align='center'> 
    <img width="49%" height="200em" src="https://github-readme-stats.vercel.app/api?username=raminhuk&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>&nbsp;
