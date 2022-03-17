@@ -5,7 +5,7 @@
 - 💼  Currently working as frontend developer<br />
 - ❤️  I'm currently studying React, Vue and Node.<br />
 - 👯  I try to collaborate with react projects<br />
-- 📫  How to reach me: [fabio-dev.vercel.app](https://fabio-dev.vercel.app)<br /><br />
+- 📫  How to reach me: [fabra.dev](https://fabra.dev)<br /><br />
 
 **My social midia**
 
