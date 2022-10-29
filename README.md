@@ -35,7 +35,7 @@
 
 <div align='center'> 
    <img width="49%" height="200em" src="https://github-readme-stats.vercel.app/api?username=raminhuk&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>&nbsp;
-<img width="49%" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raminhuk&layout=compact&langs_count=7&theme=dracula"/></div>
+<img width="49%" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raminhuk&layout=compact&langs_count=7&theme=radical"/></div>
 <br /><br />
 
 **Linguages and tools**
