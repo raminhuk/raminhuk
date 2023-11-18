@@ -28,9 +28,20 @@
 <a href="https://fabio-dev.vercel.app">
    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
 </a>&nbsp;
-
-
 </div>
+<br /><br />
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="100%"
+      src="https://github-profile-trophy.vercel.app/?username=raminhuk&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+
 <br /><br />
 
 <div align='center'> 
@@ -52,16 +63,4 @@
  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
  ![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 </div>
-
-<p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=raminhuk&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
 
