@@ -42,16 +42,16 @@
   </a>
 </p>
 
-<br /><br />
+<br />
 
 <div align='center'> 
-   <img width="50%" height="200em" src="https://github-readme-stats.vercel.app/api?username=raminhuk&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>&nbsp;
-<img width="45%" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raminhuk&layout=compact&langs_count=7&theme=radical"/></div>
+   <img width="49.5%" height="200em" src="https://github-readme-stats.vercel.app/api?username=raminhuk&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img width="49.5%" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raminhuk&layout=compact&langs_count=7&theme=radical"/></div>
 <br /><br />
 
 **Linguages and tools**
 <div align='left'>
-  
+
  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
  ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
