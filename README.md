@@ -3,7 +3,7 @@
 **About me**
 
 - 💼  Currently working as frontend developer<br />
-- ❤️  I'm currently studying JavaScript, TypeScript, React, Next, Node.<br />
+- ❤️  I'm currently studying JavaScript, TypeScript, React, Next, Node, AWS, Postgress.<br />
 - 👯  I try to collaborate with react projects<br />
 - 📫  How to reach me: [fabra.dev](https://fabra.dev)<br /><br />
 
